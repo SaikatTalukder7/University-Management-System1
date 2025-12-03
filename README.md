@@ -13,15 +13,15 @@ This project is built using **pure Java & Swing**.
 - 📂 View Course List  
 - 🎯 Assign Courses to Students
 
+### 🔐 Login System
+- Simple authentication screen  
+- Only authorized users can access the system
+- 
 ### 👨‍🎓 Student Management
 - ➕ Add Students  
 - ✏️ Update Student Information  
 - ❌ Delete Students  
-- 📋 View Student List  
-
-### 🔐 Login System
-- Simple authentication screen  
-- Only authorized users can access the system  
+- 📋 View Student List
 
 ### 🖥️ User Interface
 - Fully built using **Java Swing**  
