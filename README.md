@@ -7,11 +7,12 @@ This project is built using **pure Java & Swing**.
 
 ## ✨ Features
 
-### 📚 Course Management
-- ➕ Add Courses  
-- ✏️ Update Courses  
-- 📂 View Course List  
-- 🎯 Assign Courses to Students
+### 📚 Management
+- ✏️ Update About University  
+- 📂 View Department List
+- 📂 Faculty List
+- ➕ Admission Rules  
+- 🎯 Assign Necessary Informations
 
 ### 🔐 Login System
 - Simple authentication screen  
