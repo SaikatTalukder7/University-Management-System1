@@ -46,8 +46,3 @@ This project is built using **pure Java & Swing**.
 - 📦 Java Collections  
 
 ---
-
-## 🚀 How to Run
-
-```bash
-git clone <repository-url>
