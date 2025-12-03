@@ -32,12 +32,8 @@ This project is built using **pure Java & Swing**.
 ---
 
 ## 🎥 Demo Video
-👉 *(I will add the demo video link here)*  
 
-[`[Your Demo Video Link]`](https://drive.google.com/file/d/10bsZQsWE1xhDjnkey_N2FAqj0qZvUi3c/view?usp=drive_link)
-
-(You can upload to **YouTube**, **Google Drive**, or **GitHub Releases**, then paste the link above.)
-
+https://drive.google.com/file/d/1gvIqq53FmK-gvSoPCBd6m4mvxqaRm84d/view?usp=drive_link
 ---
 
 ## 🛠️ Technologies Used
