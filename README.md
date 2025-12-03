@@ -32,7 +32,6 @@ This project is built using **pure Java & Swing**.
 ---
 
 ## 🎥 Demo Video
-
 https://drive.google.com/file/d/1gvIqq53FmK-gvSoPCBd6m4mvxqaRm84d/view?usp=drive_link
 ---
 
