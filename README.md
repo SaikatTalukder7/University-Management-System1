@@ -17,7 +17,7 @@ This project is built using **pure Java & Swing**.
 ### 🔐 Login System
 - Simple authentication screen  
 - Only authorized users can access the system
-- 
+  
 ### 👨‍🎓 Student Management
 - ➕ Add Students  
 - ✏️ Update Student Information  
@@ -32,7 +32,7 @@ This project is built using **pure Java & Swing**.
 ---
 
 ## 🎥 Demo Video
-https://drive.google.com/file/d/1gvIqq53FmK-gvSoPCBd6m4mvxqaRm84d/view?usp=drive_link
+[![Watch Demo](demo-thumbnail.png)](https://drive.google.com/file/d/1gvIqq53FmK-gvSoPCBd6m4mvxqaRm84d/view?usp=drive_link)
 ---
 
 ## 🛠️ Technologies Used
