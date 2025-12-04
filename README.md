@@ -32,8 +32,7 @@ This project is built using **pure Java & Swing**.
 ---
 
 ## 🎥 Demo Video
-
-![demo](https://github.com/user-attachments/assets/d2102028-d0ad-4740-a11c-1b6ac5b43857)(https://drive.google.com/file/d/1gvIqq53FmK-gvSoPCBd6m4mvxqaRm84d/view?usp=drive_link)
+[![UMS Demo](https://github.com/user-attachments/assets/c0ee1c8d-2142-4d8b-895f-1540303bfb20)](https://drive.google.com/file/d/1gvIqq53FmK-gvSoPCBd6m4mvxqaRm84d/view?usp=drive_link)
 ---
 
 ## 🛠️ Technologies Used
